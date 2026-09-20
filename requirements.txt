@@ -1,0 +1,5 @@
+numpy
+quiz
+ipywidgets
+matplotlib
+utils
